@@ -10,4 +10,8 @@ The next step was to design a Bezier surface patch.  I defined a function for th
 
 The next step was to plot the B-spline curve as a ConS (curve on surface) with the surface.  I defined a function to evaluate points on the curve, a function to get a point on the surface at a given (u,v) parameter pair, and created a plot of the surface, control net, curve-on-surface, and points.  
 
-The next I created a plot of the ConS without the surface and used the tube function to give it some thickness.  Then I defined a function to evaluate points on the ConS and translated the ConS twice to create a plot of three curves chained together.  After this, I exported the ConS as an STL file and used Cura to make a 3D print of the curves.  
+For the next step, I created a plot of the ConS without the surface and used the tube function to give it some thickness.  
+
+Then I defined a function to evaluate points on the ConS and translated the ConS twice to create a plot of three curves chained together.  
+
+After this, I exported the ConS as an STL file and used Cura to make a 3D print of the curves.
