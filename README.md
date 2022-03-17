@@ -14,4 +14,4 @@ For the next step, I created a plot of the ConS without the surface and used the
 
 Then I defined a function to evaluate points on the ConS and translated the ConS twice to create a plot of three curves chained together.  
 
-After this, I exported the ConS as an STL file and used Ultimaker Cura to make a 3D print of the curves.
+After this, I exported the ConS as an STL file and used Ultimaker Cura to make a 3D print of the curves
